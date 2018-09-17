@@ -1,6 +1,9 @@
 _repo: The-Man-A-Story-of-To-day_52049
 _version: 0.1.0
 alternative_title: 'The Man: A Story of Today'
+covers:
+- cover_type: archival
+  image_path: 52049-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Hubbard, Elbert
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52049#The-Man-A-Story-of-To-day
 gutenberg_issued: '2016-05-11'
 gutenberg_type: Text
 identifiers:
